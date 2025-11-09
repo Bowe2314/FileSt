@@ -15,54 +15,14 @@ import {
 
 const BRAINROTS = [
   { 
-    id: 'skibidi', 
-    name: 'Skibidi Toilet', 
-    image: 'https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=100&h=100&fit=crop'
+    id: 'AdminLB', 
+    name: 'Admin Lucky Block', 
+    image: 'https://static.wikia.nocookie.net/stealabr/images/7/7c/AdminLuckyBlock.png/revision/latest?cb=20251007132226'
   },
   { 
-    id: 'rizz', 
-    name: 'Rizz Master', 
-    image: 'https://images.unsplash.com/photo-1574701148212-8518049c7b2c?w=100&h=100&fit=crop'
-  },
-  { 
-    id: 'sigma', 
-    name: 'Sigma Male', 
-    image: 'https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=100&h=100&fit=crop'
-  },
-  { 
-    id: 'gyat', 
-    name: 'GYAT', 
-    image: 'https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?w=100&h=100&fit=crop'
-  },
-  { 
-    id: 'ohio', 
-    name: 'Only in Ohio', 
-    image: 'https://images.unsplash.com/photo-1574943320219-553eb213f72d?w=100&h=100&fit=crop'
-  },
-  { 
-    id: 'fanum-tax', 
-    name: 'Fanum Tax', 
-    image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=100&h=100&fit=crop'
-  },
-  { 
-    id: 'griddy', 
-    name: 'Hit The Griddy', 
-    image: 'https://images.unsplash.com/photo-1547483238-f400e65ccd56?w=100&h=100&fit=crop'
-  },
-  { 
-    id: 'bussin', 
-    name: "Bussin' No Cap", 
-    image: 'https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=100&h=100&fit=crop'
-  },
-  { 
-    id: 'mewing', 
-    name: 'Mewing', 
-    image: 'https://images.unsplash.com/photo-1557804506-669a67965ba0?w=100&h=100&fit=crop'
-  },
-  { 
-    id: 'slay', 
-    name: 'Slay Queen', 
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop'
+    id: 'LGC', 
+    name: 'La Grande Combinasion', 
+    image: 'https://static.wikia.nocookie.net/stealabr/images/d/d8/Carti.png/revision/latest?cb=20250909171004'
   },
 ];
 
@@ -395,4 +355,5 @@ export default function Home() {
       </AnimatePresence>
     </div>
   );
+
 }
